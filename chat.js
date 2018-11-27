@@ -1,7 +1,7 @@
 /* 
-Created by: Kenrick Beckett
+Coded by: nonosbaba
 
-Name: Chat Engine
+NonosChat
 */
 
 var instanse = false;
